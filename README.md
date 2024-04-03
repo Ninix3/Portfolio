@@ -5,6 +5,7 @@ Welcome to my beginner portfolio! Here, I showcase the projects I've built while
 
 <b>Overview</b>
 - My portfolio features myself and a project that I've created as a beginner web developer. They demonstrate my progress and skills.
+- ![](assets/docs/welcome-page.png)
 
 <b>Features</b>
 - 🛠️ Learning Projects: Explore projects I've built to practice programming concepts.
